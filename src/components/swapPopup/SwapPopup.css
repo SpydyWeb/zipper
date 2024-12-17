@@ -1,0 +1,227 @@
+.SwapPopup{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.642);
+    z-index: -4;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 250ms linear;
+}
+.SwapPopup.active{
+    opacity: 1;
+    visibility: visible;
+    z-index: 11;
+}
+.close-swap{
+    position: absolute;
+    right: -9px;
+    top: -11px;
+    font-size: 18px;
+    background: #1d1d1d;
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 3px 7px;
+    cursor: pointer;
+}
+.form-wrap-popup{
+    position: relative;
+    margin: auto;
+    margin-top: 1.5rem;
+    max-width: 850px;
+    width: 96%;
+    background-color: #232323;
+    color: white;
+    border-radius: 25px;
+    border: 1px solid gray;
+    padding: 2rem 2rem 3rem; 
+    margin-bottom: 3.4rem;
+}
+.form-wrap-popup .order-id{
+    display: flex;
+    border: none;
+    align-items: end;
+}
+.form-wrap-popup .order-id-parts{
+    width: 40%;
+    padding: 1rem;
+    border-right: .25px solid rgba(128, 128, 128, 0.274);
+}
+.form-wrap-popup .order-id-parts:first-child{
+    width: 30%;
+}
+.form-wrap-popup .order-id-parts:last-child{
+    border-right: none;
+    width: 30%;
+}
+.form-wrap-popup .order-id-btn{
+    padding: 7px 15px;
+    border-radius: 40px;
+    border: 1px solid greenyellow;
+    font-size: 13px;
+    width: fit-content;
+    margin-bottom: 6.8rem;
+    float: right;
+}
+.form-wrap-popup .b-chain{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    margin-top: 10px;
+}
+.form-wrap-popup .b-chain img{
+    max-width: 30px;
+    border-radius: 50%;
+    margin-bottom: 4px;
+}
+.form-wrap-popup .b-chain-flex span{
+    font-size: 10px;
+}
+.form-wrap-popup .b-chain p{
+    font-size: 12px;
+    text-align: center;
+}
+.form-wrap-popup .b-chain-flex{
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    margin-top: 8px;
+}
+.form-wrap-popup .ord-stats{
+    font-size: 12px;
+    color: greenyellow;
+    text-align: center;
+}
+.form-wrap-popup .ord-stats-btn{
+    background: linear-gradient(
+        171.89deg,
+        rgba(0, 0, 0, 0.46) 24.07%,
+        rgba(233, 233, 233, 0.46) 121.07%
+      );
+      color: white;
+      font-size: 13px;
+      padding: 12px 15px;
+      border: 1px solid gray;
+      width: 88%;
+      margin: 0 auto ;
+      border-radius: 5px;
+      text-align: center;
+      margin-top: 10px;
+}
+.form-wrap-popup .d-fx{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.form-wrap-popup .Strexhash{
+    font-size: 14px;
+    line-height: 1.9;
+}
+@media (max-width: 768px) {
+
+   
+    .form-wrap-popup .order-id-btn{
+        padding: 6px 9px;
+        font-size: 9px;
+    }
+    .form-wrap-popup .ord-stats-btn{
+        padding: 8px;
+        font-size: 9px;
+    }
+    .form-wrap-popup .b-chain-flex{
+        gap: .4rem;
+    }
+    .form-wrap-popup .b-chain img{
+        max-width: 21px;
+    }
+    .form-wrap-popup .b-chain p{
+        font-size: 9px;
+    }
+    .form-wrap-popup .Strexhash{
+        font-size: 8px;
+    }
+}
+
+.ring img{
+    width: 50px;
+    /* animation: rotate-animation 10s infinite linear; */
+}
+.ring{
+    margin-bottom: 3.8rem;
+}
+.swapButton img{
+    width: 18px;
+}
+
+.ord-Progress{
+    font-size: 14px;
+    color: #dad8d8;
+    margin-top: 20px;
+}
+.Fundiing-box{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.Initiated p{
+    font-size: 14px;
+}
+.Initiated {
+    padding-top: 20px;
+    position: relative;
+}
+.Initiated::after{
+    content: "";
+    width: 14px;
+    height: 14px;
+    border: 5px solid #333333;
+    border-radius: 50%;
+    background-color: #5CCC12;
+    z-index: 9;
+    position: absolute;
+    left: 45%;
+    top: -12px;
+}
+.Fundiing-box::after{
+    content: "";
+    width: 100%;
+    height: 1px;
+    background-color: #fff;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.Fundiing-box img{
+    position: absolute;
+    left: 50%;
+    bottom: 100%;
+    width: 5px;
+}
+
+@media (max-width: 500px) {
+    .form-wrap-popup{
+        padding: 1rem 1rem 2rem;
+    }
+    .Initiated p {
+        font-size: 11px;
+    }
+    .ord-Progress{
+        text-align: center;
+        font-size: 12px;
+    }
+    .form-wrap-popup .order-id-parts{
+        padding: 0;
+    }
+    .ring p{
+        font-size: 14px;
+    }
+}

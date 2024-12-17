@@ -1,0 +1,79 @@
+<svg width="787" height="100%" viewBox="0 0 787 741" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g style="mix-blend-mode:plus-lighter" filter="url(#filter0_f_2023_145)">
+    <ellipse cx="350" cy="370.5" rx="85" ry="70.5" fill="white" class="svg-elem-1">
+      <animate attributeName="stroke-dashoffset" values="492.6369188562658;0" dur="1s" keyTimes="0;1" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <path d="M167 295L203.266 357.511C204.339 359.361 206.317 360.5 208.456 360.5H288" stroke="url(#paint0_linear_2023_145)" class="svg-elem-2">
+    <animate attributeName="stroke-dashoffset" values="492.6369188562658;0" dur="1s" keyTimes="0;1" repeatCount="indefinite"/>
+  </path>
+  <path d="M167 405L203.202 362.129C204.342 360.779 206.019 360 207.786 360H288" stroke="url(#paint1_linear_2023_145)" class="svg-elem-3">
+    <animate attributeName="stroke-dashoffset" values="492.6369188562658;0" dur="1s" keyTimes="0;1" repeatCount="indefinite"/>
+  </path>
+  <path d="M417 553L374.129 516.798C372.779 515.658 372 513.981 372 512.214V432" stroke="url(#paint2_linear_2023_145)" class="svg-elem-4">
+    <animate attributeName="stroke-dashoffset" values="492.6369188562658;0" dur="1s" keyTimes="0;1" repeatCount="indefinite"/>
+  </path>
+  <path d="M330 169L369.97 204.266C371.261 205.405 372 207.044 372 208.766V287" stroke="url(#paint3_linear_2023_145)" class="svg-elem-5">
+    <animate attributeName="stroke-dashoffset" values="492.6369188562658;0" dur="1s" keyTimes="0;1" repeatCount="indefinite"/>
+  </path>
+  <path d="M787.001 361.375H614.408L453.998 361.375" stroke="url(#paint4_linear_2023_145)" class="svg-elem-6">
+    <animate attributeName="stroke-dashoffset" values="492.6369188562658;0" dur="1s" keyTimes="0;1" repeatCount="indefinite"/>
+  </path>
+  <g filter="url(#filter1_dii_2023_145)">
+    <path d="M349.533 349.678L366.685 337.322C368.804 335.796 371.666 335.815 373.764 337.37L390.372 349.675C391.899 350.807 392.8 352.595 392.8 354.496V367.691C392.8 369.676 391.819 371.532 390.18 372.649L373.575 383.968C371.56 385.342 368.913 385.359 366.881 384.012L349.725 372.643C348.048 371.531 347.04 369.653 347.04 367.641V354.547C347.04 352.618 347.968 350.806 349.533 349.678Z" fill="#333333" class="svg-elem-7">
+      <animate attributeName="fill" values="white;#333333" dur="1s" keyTimes="0;1" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <path d="M332.391 341.707L367.912 316.317C370.023 314.808 372.865 314.827 374.955 316.364L409.421 341.703C410.958 342.834 411.867 344.629 411.867 346.537V374.785C411.867 376.777 410.878 378.639 409.228 379.755L374.765 403.065C372.758 404.423 370.132 404.44 368.107 403.108L332.583 379.748C330.896 378.638 329.88 376.754 329.88 374.735V346.588C329.88 344.651 330.815 342.833 332.391 341.707Z" stroke="url(#paint5_linear_2023_145)" class="svg-elem-8">
+    <animate attributeName="stroke-dashoffset" values="492.6369188562658;0" dur="1s" keyTimes="0;1" repeatCount="indefinite"/>
+  </path>
+  <path d="M309.504 333.633L368.228 291.541C370.341 290.026 373.191 290.045 375.284 291.588L432.307 333.63C433.841 334.761 434.747 336.554 434.747 338.459V386.105C434.747 388.095 433.761 389.954 432.115 391.071L375.094 429.747C373.084 431.111 370.45 431.128 368.423 429.791L309.697 391.064C308.013 389.954 307 388.072 307 386.055V338.51C307 336.576 307.932 334.76 309.504 333.633Z" stroke="url(#paint6_linear_2023_145)" stroke-opacity="0.4" class="svg-elem-9">
+    <animate attributeName="stroke-dashoffset" values="492.6369188562658;0" dur="1s" keyTimes="0;1" repeatCount="indefinite"/>
+  </path>
+  <path d="M371.368 355.461V347.923C371.368 346.97 370.162 346.557 369.578 347.31L358.25 361.927C357.741 362.584 358.209 363.539 359.04 363.539H367.974C368.526 363.539 368.974 363.987 368.974 364.539V372.021C368.974 372.98 370.193 373.389 370.771 372.624L381.787 358.064C382.285 357.405 381.815 356.461 380.989 356.461H372.368C371.816 356.461 371.368 356.013 371.368 355.461Z" fill="#58C90D" stroke="#58C90D" class="svg-elem-10">
+    <animate attributeName="fill" values="#58C90D;#333333" dur="1s" keyTimes="0;1" repeatCount="indefinite"/>
+  </path>
+  <defs>
+    <filter id="filter0_f_2023_145" x="-35" y="0" width="770" height="741" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+      <feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_2023_145"></feGaussianBlur>
+    </filter>
+    <filter id="filter1_dii_2023_145" x="331.04" y="327.191" width="77.76" height="80.8201" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+      <feOffset dy="4"></feOffset>
+      <feGaussianBlur stdDeviation="3.5"></feGaussianBlur>
+      <feComposite in2="SourceAlpha" operator="in"></feComposite>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2023_145" result="shape"></feBlend>
+    </filter>
+    <linearGradient id="paint0_linear_2023_145" x1="167" y1="298" x2="289" y2="298" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"></stop>
+      <stop offset="1" stop-color="white"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_2023_145" x1="167" y1="408" x2="289" y2="408" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"></stop>
+      <stop offset="1" stop-color="white"></stop>
+    </linearGradient>
+    <linearGradient id="paint2_linear_2023_145" x1="417" y1="556" x2="373" y2="532" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"></stop>
+      <stop offset="1" stop-color="white"></stop>
+    </linearGradient>
+    <linearGradient id="paint3_linear_2023_145" x1="331" y1="172" x2="372" y2="204" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"></stop>
+      <stop offset="1" stop-color="white"></stop>
+    </linearGradient>
+    <linearGradient id="paint4_linear_2023_145" x1="787" y1="361" x2="455" y2="361" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"></stop>
+      <stop offset="1" stop-color="white"></stop>
+    </linearGradient>
+    <linearGradient id="paint5_linear_2023_145" x1="332" y1="332" x2="367" y2="316" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"></stop>
+      <stop offset="1" stop-color="white"></stop>
+    </linearGradient>
+    <linearGradient id="paint6_linear_2023_145" x1="310" y1="334" x2="368" y2="291" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"></stop>
+      <stop offset="1" stop-color="white"></stop>
+    </linearGradient>
+  </defs>
+</svg>

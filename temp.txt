@@ -1,0 +1,7 @@
+// {
+//   "src": "logo192.png",
+//   "type": "image/png",
+//   "sizes": "192x192"
+// },
+
+xythumio@103.159.84.182:/home/xythumio/public_html

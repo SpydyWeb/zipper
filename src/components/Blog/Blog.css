@@ -1,0 +1,34 @@
+.blog {
+max-width: 100vw;  
+}
+.blog-cards{
+    width:90%;
+    margin : auto;
+    display :grid;
+
+}
+
+.blog-cards {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    gap: 20px;
+    /* Add spacing between grid items */
+    /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
+
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .blog-cards {
+        grid-template-columns: 1fr;
+      
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+    .blog-cards {
+        grid-template-columns: repeat(2, 1fr);
+        /* Two columns for medium screens */
+    }
+}
